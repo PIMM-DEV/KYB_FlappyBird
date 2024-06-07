@@ -3,7 +3,12 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - endpoint
+  - BulletBorder
+  - gameover
+  - bulletminus
+  - heart
   layers:
   - Default
   - TransparentFX
